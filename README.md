@@ -59,7 +59,7 @@ finance-backend/
 
 ### Clone the repository:
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/thakurmrvikas9/finance-backend.git
 cd finance-backend
 ```
 
@@ -227,7 +227,7 @@ Mongoose schemas enforce:
 - Use different IP address (for testing)
 - Adjust `RATE_LIMIT_MAX` in `.env` (for development)
 
-## 📞 Support & Contributions
+
 
 ### Report Issues
 Open an issue on GitHub with:
